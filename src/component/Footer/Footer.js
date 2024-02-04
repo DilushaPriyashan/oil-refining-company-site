@@ -31,11 +31,11 @@ class Footer extends Component {
                         </div>
                         <div className="footer-links-terms  col-sm-12 order-3 col-lg-6 order-lg-2">
                             <ul>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms of Use</a></li>
-                                <li><a href="#">Sales and Refunds</a></li>
-                                <li><a href="#">Legal</a></li>
-                                <li><a href="#">Site Map</a></li>
+                                <li><a href="#"> Privacy Policy </a></li>
+                                <li><a href="#"> Terms of Use </a></li>
+                                <li><a href="#"> Sales and Refunds </a></li>
+                                <li><a href="#"> Legal  </a></li>
+                                <li><a href="#"> Site Map </a></li>
                             </ul>
                         </div>
                         <div className="footer-country  col-sm-12 order-1 col-md-4 order-md-2 text-md-right col-lg-2 order-lg-3">

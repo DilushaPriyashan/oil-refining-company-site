@@ -61,15 +61,19 @@ class Orders extends Component {
 											<div className="product-title">
 												{product.Title}
 											</div>
+											<br></br>
 											<div className="description-wraper">
 												{product.Brief}
 											</div>
+											<br></br>
 											<div className="price-wrapper">
 												{`Starting at ${product.StartPrice}`}
 											</div>
+											<br></br>
 											<div className="monthly-price">
 												{product.PriceRange}
 											</div>
+											<br></br>
 											<div className="links-wrapper">
 												<ul>
 													<li>
