@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "Id": "palmoilp",
+      "img": "https://images.pexels.com/photos/6231906/pexels-photo-6231906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Palm Oil Production",
+      "Brief": "Our Palm Oil, sourced from the finest palm fruits, is a testament to quality and ethical practices. Refined through a meticulous process, our Palm Oil stands out for its versatile applications, whether in culinary delights, industrial processes, or skincare formulations.",
+      "Description1": "Our Palm Oil undergoes a rigorous refining process, ensuring the highest quality and adherence to industry standards. We prioritize quality control measures at every step, guaranteeing a product that meets the expectations of our discerning clients.",
+      "Description2": "Physical properties > Clear, vibrant color, neutral odor.",
+      "Description3": "Chemical composition > Complies with industry benchmarks.",
+      "Description4": "Packaging options > Available in various container sizes with high-quality packaging materials.",
+      "Description5": "Culinary uses, valued in various industries for its unique properties and cosmetic applications",
+      "Description6": "Learn about our rigorous testing procedures and quality assurance measures, guaranteeing a product that meets the highest standards.",
+      "Description7": "Discover optimal storage conditions, shelf life, and handling instructions to make the most of our premium Palm Oil.",
+      "Description8": "Explore our packaging options and labeling strategy, providing transparency and essential product information."
+    },
+    {
+      "Id": "coconutoilp",
+      "img": "https://images.pexels.com/photos/1247499/pexels-photo-1247499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Coconut Oil Production",
+      "Brief": "Our Coconut Oil, sourced from the finest coconuts, is a testament to quality and ethical practices. Refined through a meticulous process, our Coconut Oil stands out for its versatile applications, whether in culinary creations, industrial processes, or skincare formulations..",
+      "Description1": "Our Coconut Oil undergoes a rigorous refining process, ensuring top-notch quality and compliance with industry standards. Quality control measures are implemented at every step, guaranteeing a product that exceeds the expectations of our discerning clients.",
+      "Description2": "Physical properties > Crystal-clear appearance, a rich texture, and a mild, natural coconut aroma.",
+      "Description3": "Chemical composition > Complies with industry benchmarks, ensuring purity and consistency.",
+      "Description4": "Packaging options > Available in various container sizes with high-quality packaging materials to maintain freshness.",
+      "Description5": "Culinary uses, enhancing the flavor of your dishes, cosmetic applications",
+      "Description6": "Learn about our rigorous testing procedures and quality assurance measures, guaranteeing a product that meets the highest standards.",
+      "Description7": "Discover optimal storage conditions, shelf life, and handling instructions to make the most of our premium Coconut Oil.",
+      "Description8": "Explore our packaging options and labeling strategy, providing transparency and essential product information."
+    },
+    {
+      "Id": "risebranp",
+      "img": "https://images.pexels.com/photos/5760907/pexels-photo-5760907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Rise Bran Oil Production",
+      "Brief": " Our Rice Bran Oil, extracted from the finest rice bran, is a testament to quality and ethical practices. Refined through a meticulous process, our Rice Bran Oil stands out for its versatile applications, whether in culinary masterpieces, industrial processes, or skincare formulations.",
+      "Description1": "Our Rice Bran Oil undergoes a rigorous refining process, ensuring top-notch quality and compliance with industry standards. Quality control measures are implemented at every step, guaranteeing a product that exceeds the expectations of our discerning clients.",
+      "Description2": "Physical properties >  Clear appearance, a light texture, and a mild, neutral aroma.",
+      "Description3": "Chemical composition > Complies with industry benchmarks, ensuring purity and consistency.",
+      "Description4": "Packaging options > Available in various container sizes with high-quality packaging materials to maintain freshness.",
+      "Description5": "Culinary uses, valued in various industries for its unique properties and versatility.",
+      "Description6": "Learn about our rigorous testing procedures and quality assurance measures, guaranteeing a product that meets the highest standards.",
+      "Description7": "Discover optimal storage conditions, shelf life, and handling instructions to make the most of our premium Rice Bran Oil.",
+      "Description8": "Explore our packaging options and labeling strategy, providing transparency and essential product information."
+    },
+    {
+      "Id": "coconutwaxp",
+      "img": "https://images.pexels.com/photos/4406863/pexels-photo-4406863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Coconut Wax Production",
+      "Brief": " Our Coconut Wax, derived from premium coconuts, is a testament to quality and ethical practices. Crafted through a meticulous process, our Coconut Wax stands out for its versatile applications, whether in candle making, cosmetics, or other creative endeavors.",
+      "Description1": "Our Coconut Wax undergoes a meticulous process, ensuring top-notch quality and compliance with industry standards. Quality control measures are implemented at every step, guaranteeing a product that exceeds the expectations of our discerning clients.",
+      "Description2": "Physical properties > Smooth texture, clean appearance, and a subtle, natural coconut fragrance.",
+      "Description3": "Chemical composition > Complies with industry benchmarks, ensuring purity and consistency.",
+      "Description4": "Packaging options > Available in various container sizes with high-quality packaging materials to preserve its pristine state.",
+      "Description5": "Perfect for crafting eco-friendly and clean-burning candles, Used in cosmetics and skincare products for its natural properties.",
+      "Description6": "Learn about our rigorous testing procedures and quality assurance measures, guaranteeing a product that meets the highest standards.",
+      "Description7": "Discover optimal melting points, pouring temperatures, and other usage instructions to make the most of our premium Coconut Wax.",
+      "Description8": "Explore our packaging options and labeling strategy, providing transparency and essential product information."
+    }
+  ]
+}
