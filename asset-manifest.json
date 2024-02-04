@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/oil-refining-company-site/static/css/main.c6b2d98b.css",
-    "main.js": "/oil-refining-company-site/static/js/main.1f9c2731.js",
-    "static/media/fac3.jpg": "/oil-refining-company-site/static/media/fac3.d9f68ff9b65b2858302f.jpg",
-    "static/media/fac2.jpg": "/oil-refining-company-site/static/media/fac2.dbb49f3a0ce725ec85c3.jpg",
-    "static/media/palm.jpg": "/oil-refining-company-site/static/media/palm.f8215102eff1803cd9d4.jpg",
-    "static/media/cocowax.jpg": "/oil-refining-company-site/static/media/cocowax.e706aa4f371a82a9837c.jpg",
-    "static/media/risebran.jpg": "/oil-refining-company-site/static/media/risebran.61e0a02cb73a96af2b8c.jpg",
-    "static/media/coco.jpg": "/oil-refining-company-site/static/media/coco.f750c655f988398030a3.jpg",
-    "static/media/oil.jpg": "/oil-refining-company-site/static/media/oil.d784306db16fb7a76652.jpg",
-    "static/media/about.png": "/oil-refining-company-site/static/media/about.c2d5d304a65e71a6dcf5.png",
-    "static/media/Poil.jpg": "/oil-refining-company-site/static/media/Poil.cdf01d778a6f200164d2.jpg",
-    "static/media/logo.png": "/oil-refining-company-site/static/media/logo.cd018cd1ea6a1fcdfc11.png",
-    "index.html": "/oil-refining-company-site/index.html",
-    "static/media/bag.svg": "/oil-refining-company-site/static/media/bag.5a2342b0934f7c141ef8.svg",
-    "main.c6b2d98b.css.map": "/oil-refining-company-site/static/css/main.c6b2d98b.css.map",
-    "main.1f9c2731.js.map": "/oil-refining-company-site/static/js/main.1f9c2731.js.map"
+    "main.css": "/static/css/main.9694c555.css",
+    "main.js": "/static/js/main.1a13840b.js",
+    "static/media/fac3.jpg": "/static/media/fac3.d9f68ff9b65b2858302f.jpg",
+    "static/media/fac2.jpg": "/static/media/fac2.dbb49f3a0ce725ec85c3.jpg",
+    "static/media/palm.jpg": "/static/media/palm.f8215102eff1803cd9d4.jpg",
+    "static/media/cocowax.jpg": "/static/media/cocowax.e706aa4f371a82a9837c.jpg",
+    "static/media/risebran.jpg": "/static/media/risebran.61e0a02cb73a96af2b8c.jpg",
+    "static/media/coco.jpg": "/static/media/coco.f750c655f988398030a3.jpg",
+    "static/media/oil.jpg": "/static/media/oil.d784306db16fb7a76652.jpg",
+    "static/media/about.png": "/static/media/about.c2d5d304a65e71a6dcf5.png",
+    "static/media/Poil.jpg": "/static/media/Poil.cdf01d778a6f200164d2.jpg",
+    "static/media/logo.png": "/static/media/logo.cd018cd1ea6a1fcdfc11.png",
+    "index.html": "/index.html",
+    "static/media/bag.svg": "/static/media/bag.5a2342b0934f7c141ef8.svg",
+    "main.9694c555.css.map": "/static/css/main.9694c555.css.map",
+    "main.1a13840b.js.map": "/static/js/main.1a13840b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6b2d98b.css",
-    "static/js/main.1f9c2731.js"
+    "static/css/main.9694c555.css",
+    "static/js/main.1a13840b.js"
   ]
 }
