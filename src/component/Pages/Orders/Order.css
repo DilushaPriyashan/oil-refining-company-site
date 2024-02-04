@@ -1,0 +1,16 @@
+.product-holder {
+    border: 5px;
+    box-shadow: 0 0 10px #e6e6e3, 0 0 9px #dcdce4;
+    border-radius: 10px;
+    background: white;
+
+}
+
+.internal-page-wrapper {
+    background: linear-gradient(45deg, #C1A01E, #11111F, 0.);
+
+}
+
+.title-wraper {
+    color: #C1A01E;
+}

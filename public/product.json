@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "Id": "palmoil",
+      "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/2435/w1007d1620724772795.jpg",
+      "Title": "Palm Oil",
+      "Brief": "Indulge in the rich goodness of sustainably sourced palm oil on our page, enhancing your culinary delights while supporting environmentally conscious practices. .",
+      "StartPrice": "$39",
+      "PriceRange": " 1 Letre starting from $39 when you purchase in bulk",
+      "Description": "Indulge in the rich goodness of sustainably sourced palm oil on our page, enhancing your culinary delights while supporting environmentally conscious practices."
+    },
+    {
+      "Id": "coconutoil",
+      "img": "https://images.pexels.com/photos/11809347/pexels-photo-11809347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Coconut Oil",
+      "Brief": "Elevate your wholesale experience with our premium coconut oil, a versatile and healthy choice for your business. Discover quality and freshness in every order, perfect for your wholesale needs.",
+      "StartPrice": "$44",
+      "PriceRange": "1 Letre starting from $44 when you purchase in bulk",
+      "Description": "Elevate your wholesale experience with our premium coconut oil, a versatile and healthy choice for your business. Discover quality and freshness in every order, perfect for your wholesale needs."
+    },
+    {
+      "Id": "risebranoil",
+      "img": "https://images.pexels.com/photos/12408950/pexels-photo-12408950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Rise Bran Oil",
+      "Brief": "Explore the finest quality rice bran oil at wholesale prices on our platform. Elevate your culinary creations with this heart-healthy and versatile oil, available in bulk quantities for your business needs.",
+      "StartPrice": "$47",
+      "PriceRange": "1 Letre starting from $47 when you purchase in bulk",
+      "Description": "Explore the finest quality rice bran oil at wholesale prices on our platform. Elevate your culinary creations with this heart-healthy and versatile oil, available in bulk quantities for your business needs."
+    },
+    {
+      "Id": "coconutwax",
+      "img": "https://images.pexels.com/photos/725998/pexels-photo-725998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "Title": "Coconut Wax",
+      "Brief": "Ignite the ambiance of your space with our premium coconut wax available for wholesale.",
+      "StartPrice": "$27",
+      "PriceRange": "1 Letre starting from $27 when you purchase in bulk",
+      "Description": "Ignite the ambiance of your space with our premium coconut wax available for wholesale."
+    }
+  ]
+}

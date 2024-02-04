@@ -1,0 +1,25 @@
+.third-hightlight-wrapper {
+
+
+	background-image: url("../../../images/home/risebran.jpg");
+	height: 580px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #fbfbfd;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+	.third-hightlight-wrapper {
+		min-height: 692px;
+		background-image: url("../../../images/home/risebran.jpg");
+	}
+}
+
+.pro-con {
+	background-color: rgba(0, 0, 0, 0.7);
+}
